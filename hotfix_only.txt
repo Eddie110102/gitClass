@@ -1,1 +1,2 @@
 main: aaa.txt
+hotfix: bbb.txt
